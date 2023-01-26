@@ -1,4 +1,4 @@
-- 👋 Hi Dears, I’m dears AmirHeydari66
+- 👋 Hi Dears, I’m dears Amir Heydari
 - I’m interested in BI and Data Engineer
 - I’m currently learning Data Mining
 - I’m looking to collaborate on BI and Data Bases
