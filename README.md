@@ -2,7 +2,7 @@
 - I’m interested in BI, DBA and Data Engineering
 - I’m currently learning Advanced BI courses
 - I’m looking to collaborate on BI and Data warehouse
-- For reach me please take email amir.he1366@gmail.com or linkedin.com/in/amir-heydari-profile
+- For reach me please take email amir.he1366@gmail.com or linkedin.com/in/amir-heydari-profile/
 
 
 <!---
