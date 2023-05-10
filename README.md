@@ -1,4 +1,4 @@
-- 👋 Hi Dears, I’m Amir Heydari
+- 👋 Hi Dears, I’m Amir Heydari, A Business Intelligence Developer and Data Analyst with over 8 years of experience.
 - I’m interested in BI, DBA and Data Engineering
 - I’m currently learning Advanced BI courses
 - I’m looking to collaborate on BI and Data warehouse
