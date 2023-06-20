@@ -1,4 +1,4 @@
-- Business Intelligence Developer and Data Analyst with over 8 years of experience.
+- Business Intelligence Developer and Data Analyst with over 6 years of experience.
 - I’m interested in BI, DBA and Data Engineering
 - I’m currently learning Advanced BI courses
 - I’m looking to collaborate on BI and Data warehouse
